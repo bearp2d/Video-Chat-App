@@ -1,4 +1,4 @@
-# Zipcall - Decentralized Video Chat
+# Video Chat App
 
 [![Author](https://img.shields.io/badge/Author-ianramzy-brightgreen.svg)](https://ianramzy.com)
 ![License: CC-NC](https://img.shields.io/badge/License-CCNC-blue.svg)
@@ -7,7 +7,6 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier)
 [![Join the chat at https://gitter.im/zipcall](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipcall)
 
-# https://zipcall.io
 
 Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infrastructure.
 Zipcall provides video quality and latency simply not available with traditional
@@ -66,5 +65,3 @@ npm start
 Pull Requests are welcome!
 
 Please run prettier on all of your PRs before submitting, this can be done with `prettier --write` in the project directory
-
-For communication we use Gitter Chat which can be found here: [![Join the chat at https://gitter.im/zipcall](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipcall)
