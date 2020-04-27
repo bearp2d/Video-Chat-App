@@ -33,8 +33,8 @@ technology.
 - Clone this repo
 
 ```
-git clone https://github.com/ianramzy/decentralized-video-chat
-cd decentralized-video-chat
+git clone https://github.com/bearp2d/Video-Chat-App
+cd Video-Chat-App
 ```
 
 #### Set up credentials
